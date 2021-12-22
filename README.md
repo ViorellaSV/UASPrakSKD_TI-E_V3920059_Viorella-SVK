@@ -1,1 +1,1 @@
-# UASPrakSKD_TI-E_V3920059_Viorella-SVK
+Pemrograman ini bisa berjalan apabila file yang digunakan berformat jpg, jpeg, dan png. File gambar kemudian dimasukkan kedalam folder program kemudian di program di run dengan memasukkan file gambara kedalam program kemudian hasil run nya akan terlihat di dalam folder.
